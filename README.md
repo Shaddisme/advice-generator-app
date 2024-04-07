@@ -31,19 +31,19 @@ Users should be able to:
 <section style="display:flex; gap: 30px; flex-wrap:wrap">
   <div>
     <h3>Mobile screenshot</h3>
-    <img src="./assets/screenshots/mobile-screenshot.png" alt="Mobile screenshot" width="300">
+    <img src="/advice-generator-app-main/advice-generator-app/Screenshots/Mobile view.png" alt="Mobile screenshot" width="300">
   </div>
 
   <div>
     <h3>Desktop screenshot</h3>
-    <img src="./assets/screenshots/desktop-screenshot.png" alt="Desktop screenshot" width="600">
+    <img src="/advice-generator-app-main/advice-generator-app/Screenshots/Desktop View.png" alt="Desktop screenshot" width="600">
   </div>
 </section>
 
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Shaddisme)
-- Live Site URL:
+- Live Site URL:(https://shaddisme.github.io/advice-generator-app/)
 
 ## My process
 
